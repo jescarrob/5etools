@@ -16,6 +16,21 @@
 			]
 		},
 		{
+			"name": "Beau",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Burning Hands.webp"
+					},
+					"width": 377,
+					"height": 1000
+				}
+			]
+		},
+		{
 			"name": "Burning Hands",
 			"source": "PHB",
 			"images": [
